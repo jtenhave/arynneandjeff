@@ -2472,12 +2472,16 @@ form .has-error .btn-primary{
 /*===============================================*/
 
 /* ----------------------------------------------*/
-/* 12.1 Couple Section							 */
+/* 12.1 Wedding Section							 */
 /* ----------------------------------------------*/
 
-#couple{
+#wedding{
 	padding:140px 0 100px 0;
 }
+
+/* ----------------------------------------------*/
+/* 12.2 Couple Section							 */
+/* ----------------------------------------------*/
 
 .couple-name{
 	font-family: 'Pacifico', cursive; 
@@ -2496,60 +2500,9 @@ form .has-error .btn-primary{
 }
 
 /* ----------------------------------------------*/
-/* 12.2 Location & Countdown Section			 */
+/* 12.3 Details Section			 			 */
 /* ----------------------------------------------*/
-
-#counting-down{
-	text-align:center; 
-	color:#FFF; 
-	font-family: 'Pacifico';
-	-ms-transform: rotate(-10deg); 
-	-webkit-transform: rotate(-10deg); 
-	transform: rotate(-10deg);
-	padding-right:30px;
-	margin-top:0px;
-	margin-bottom:25px;
-}
-
-#counting{
-	font-size:65px; 
-	line-height:50px
-}
-
-#down{
-	font-size:55px; 
-	line-height:65px;
-}
-
-.simple-countdown{
-	width:250px; 
-	margin:0 auto; 
-	margin-top:25px
-}
-
-.simple-countdown.is-countdown {
-	border: none;
-	background-color:transparent;
-	color:#FFF;
-	font-family: 'Oswald', sans-serif; 
-	font-size:13px;
-}
-
-.simple-countdown .countdown-amount {
-	display:inline-block;
-	font-size:18px;
-	letter-spacing:2px;
-}
-.simple-countdown .countdown-period {
-    display:inline-block;
-	font-size:18px;
-}
-
-
-/* ----------------------------------------------*/
-/* 12.3 The Wedding Section			 			 */
-/* ----------------------------------------------*/
-#the-wedding{
+#details{
 	padding:140px 0 140px 0;
 }
 
@@ -2562,15 +2515,7 @@ form .has-error .btn-primary{
 }
 
 /* ----------------------------------------------*/
-/* 12.4 RSVP Section				 			 */
-/* ----------------------------------------------*/
-#rsvp{
-	padding:85px 0;
-	background-color:#FFF
-}
-
-/* ----------------------------------------------*/
-/* 12.5 Footer Section				 			 */
+/* 12.4 Footer Section				 			 */
 /* ----------------------------------------------*/
 footer .image-divider.fixed-height{
 	height:550px;
