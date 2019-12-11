@@ -2557,6 +2557,12 @@ footer .image-divider.fixed-height{
 /* ----------------------------------------------*/
 /* 13.1 Location Page				 			 */
 /* ----------------------------------------------*/
+
+.external-link {
+	color:rgb(85, 85, 216);
+	text-decoration: underline;
+}
+
 .interest-icon{
 	display:inline-block; 
 	width:20%; 
