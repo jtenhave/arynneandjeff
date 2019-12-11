@@ -423,6 +423,10 @@ img.with-border{
 	z-index:1000;
 }
 
+#nav-menu.nav-menu-offset {
+	padding-right: 40px
+}
+
 /* 02.2.1 Nav Center 							 */
 /* ----------------------------------------------*/
 #nav-bar.nav-center .logo-wrapper{
@@ -457,8 +461,8 @@ img.with-border{
 }
 
 #nav-bar.nav-right #nav-menu{
-	float:right;
-	text-align:right;
+	float: left;
+	text-align: center;
 	width:90%;
 }
 
@@ -3013,7 +3017,7 @@ button.mfp-close, button.mfp-arrow {
 	text-align:left !important;
 	width:100% !important;
 	background-color:#FFF;
-	height:230px;
+	height:174px;
 	overflow:auto;
 }
 
@@ -3329,7 +3333,7 @@ button.mfp-close, button.mfp-arrow {
 /* 02.2 Logo & Nav Position						 */
 /* ----------------------------------------------*/
 #nav-menu{	
-	height:230px !important;
+	height:174px !important;
 }
 }
 
